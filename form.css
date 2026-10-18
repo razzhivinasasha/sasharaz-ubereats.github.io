@@ -348,7 +348,7 @@ select {
     cursor: pointer;
 }
 
-@media screen and (min-width: 767px) and (max-width: 1123px) {
+@media screen and (min-width: 766px) and (max-width: 1122.98px) {
     body {
         min-width: 767px;
     }
@@ -390,7 +390,7 @@ h2 {
 }
 
 /*мобилка*/
-@media screen and (min-width: 319px) and (max-width: 766px) {
+@media screen and (max-width: 765.98px) {
     body {
         min-width: 319px;
     /*     overflow-x: hidden;* */
